@@ -1,5 +1,5 @@
 {
-  "name": "mstaack/laravel-postgis",
+  "name": "rogeriogarcia/mstaack-laravel-postgis",
   "description": "Postgis extensions for laravel. Aims to make it easy to work with geometries from laravel models",
   "require": {
     "php": ">=7.1",
